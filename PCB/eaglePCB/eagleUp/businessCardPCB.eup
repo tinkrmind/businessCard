@@ -1,0 +1,10 @@
+version;4;5;http://eagleup.wordpress.com/;
+settings;C:/EAGLE-8.5.2/models/;C:/Program Files/ImageMagick-7.0.7-Q16/convert.exe;C:/Program Files/ImageMagick-7.0.7-Q16/composite.exe;del;
+color;0x98041C;0xE2012D;silver;ivory;
+images;C:/Users/tinkr/Documents/eagle/businessCard/eagleUp/;eagleUp_businessCardPCB;png;1200;png;
+outline-line;-0.338631;-0.310413;51.274650;-0.310413;0.800000;
+outline-line;51.274650;-0.310413;51.274650;89.653034;0.800000;
+outline-line;51.302869;89.653034;-0.338631;89.653034;0.800000;
+outline-line;-0.338631;89.653034;-0.338631;-0.310413;0.800000;
+outline;-0.338631;-0.310413;51.302869;89.653034;0.800000;
+outline-complete;0.80;

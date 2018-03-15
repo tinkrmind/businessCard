@@ -15,7 +15,10 @@
    id="svg4979"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="back_10x.svg">
+   sodipodi:docname="back_10x.svg"
+   inkscape:export-filename="/home/tinkrmind/Visual Language/BusinessCard/back_10x.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4981">
     <clipPath
@@ -4638,7 +4641,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="537.12316"
+     inkscape:cx="289.9803"
      inkscape:cy="508.68756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -4657,7 +4660,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
